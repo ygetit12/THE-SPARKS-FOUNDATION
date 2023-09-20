@@ -12,4 +12,10 @@ Data can be found at http://bit.ly/w-data
 
 What will be predicted score if a student studies for 9.25 hrs/day?
 
-## Solution: 
+## Prediction using Unupervised ML (Task2)
+
+From the given 'Iris' dataset, predict the optimum number of clusters and represent it visually.
+
+Use R or Python or perform this task
+
+Dataset : https://bit.ly/3kxTdox
